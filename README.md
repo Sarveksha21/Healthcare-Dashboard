@@ -1,6 +1,6 @@
 **About Project:**
 
-Healthcare Analysis Dashboard in Power Bi visualisation tool. It is used for creating effective and interactive dashboard which helps outcomes to improve the Healthcare Hospital’s Performance 
+Healthcare Analysis Dashboard in Power Bi visualisation tool. It is used for creating effective and interactive dashboard which helps outcomes to improve the Healthcare Hospital’s Performance on the basis of number of Day Patients, Inpatients & Outpatients : Check a record of patients those who stay in the hospital for a day (day patients), those who stay overnight or longer (inpatients), and those who visit the hospital but do not stay overnight (outpatients).
 
 **Project Goals:**
 
