@@ -19,25 +19,23 @@ Healthcare Analysis Dashboard in Power Bi visualisation tool. It is used for cre
 
 **Steps Involved :**
 
-1)Import Data (Excel or CSV File) in Power BI
+1)Requriment Gathering
 
-2)Transform & Clean Data
+2)Data Collection
 
-3)DAX measures added to create calculated columns
+3)Transforming & Modelling
 
-4)Create Visualizations for different metrics
+4)Data Visualization Blueprint
 
-5)Add Interactivity & Navigation
+5)Dashboard Layout & Design
 
-6)Design the Dashboard Layout
+6)Interactivity & Navigation
 
-7)Apply Filters and Tiles
+7)Testing
 
-8)Testing
+8)Deploying the report on Power BI services
 
 9)Maintenance & Refresh
-
-10)Deploying the report on Power BI services
 
 
 **Conclusion :**
