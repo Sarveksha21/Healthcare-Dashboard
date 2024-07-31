@@ -1,6 +1,14 @@
-**About Project :**
+**About Project:**
 
 Healthcare Analysis Dashboard in Power Bi visualisation tool. It is used for creating effective and interactive dashboard which helps outcomes to improve the Healthcare Hospital’s Performance 
+
+**Project Goals:**
+
+1.Track current status of the patient waiting list.
+
+2. Analyze historical monthly trend of waiting list in inpatients & Outpatients categories
+
+3. Detailed specialty level & age profile analysis.
 
 **Modules:**
 
