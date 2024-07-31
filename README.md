@@ -6,9 +6,9 @@ Healthcare Analysis Dashboard in Power Bi visualisation tool. It is used for cre
 
 1.Track current status of the patient waiting list.
 
-2. Analyze historical monthly trend of waiting list in inpatients & Outpatients categories
+2.Analyze historical monthly trend of waiting list in inpatients & Outpatients categories
 
-3. Detailed specialty level & age profile analysis.
+3.Detailed specialty level & age profile analysis.
 
 **Modules:**
 
